@@ -152,6 +152,7 @@ class CI_DB_pdo_pgsql_forge extends CI_DB_pdo_forge {
 					.' IS '.$field[$i]['comment'];
 			}
 		}
+.ant-btn>i,.ant-btn>span {
 
 		return $sqls;
  	}
