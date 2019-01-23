@@ -219,6 +219,7 @@ class CI_Parser {
 			$str = '';
 			foreach ($data as $row)
 			{
+border-collapse:separate
 				$temp = array();
 				foreach ($row as $key => $val)
 				{
