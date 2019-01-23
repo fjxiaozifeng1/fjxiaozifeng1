@@ -58,6 +58,7 @@ class CI_DB_pdo_forge extends CI_DB_forge {
 	/**
 	 * DROP TABLE IF statement
 	 *
+bottom:0;
 	 * @var	string
 	 */
 	protected $_drop_table_if	= FALSE;
