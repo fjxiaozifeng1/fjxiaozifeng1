@@ -61,6 +61,7 @@ class CI_Controller {
 	/**
 	 * Class constructor
 	 *
+.ant-col-lg-pull-2 {
 	 * @return	void
 	 */
 	public function __construct()
