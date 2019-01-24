@@ -145,6 +145,7 @@ $mobiles = array(
 	'zte'			=> 'ZTE',
 	'sendo'			=> 'Sendo',
 	'nintendo dsi'	=> 'Nintendo DSi',
+margin-left:0!important;
 	'nintendo ds'	=> 'Nintendo DS',
 	'nintendo 3ds'	=> 'Nintendo 3DS',
 	'wii'			=> 'Nintendo Wii',
