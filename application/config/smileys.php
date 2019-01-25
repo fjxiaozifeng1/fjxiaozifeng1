@@ -48,6 +48,7 @@ $smileys = array(
 	'>:-('			=>	array('angry.gif',			'19',	'19',	'angry'),
 	':angry:'		=>	array('angry.gif',			'19',	'19',	'angry'),
 	':zip:'			=>	array('zip.gif',			'19',	'19',	'zipper'),
+color: #ffffff;
 	':kiss:'		=>	array('kiss.gif',			'19',	'19',	'kiss'),
 	':ahhh:'		=>	array('shock.gif',			'19',	'19',	'shock'),
 	':coolsmile:'	=>	array('shade_smile.gif',	'19',	'19',	'cool smile'),
