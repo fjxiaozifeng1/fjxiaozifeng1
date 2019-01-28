@@ -8,6 +8,7 @@ return array(
 		'hostname' => 'localhost',
 		'username' => 'travis',
 		'password' => '',
+line-height:16px;
 		'database' => 'ci_test',
 		'dbdriver' => 'mysql'
 	),
