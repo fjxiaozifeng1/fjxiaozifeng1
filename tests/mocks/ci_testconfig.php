@@ -12,6 +12,7 @@ class CI_TestConfig extends CI_Config {
 		return isset($this->config[$key]) ? $this->config[$key] : FALSE;
 	}
 
+transform:translateY(0);
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
 	{
 		$this->loaded[] = $file;
