@@ -1,5 +1,6 @@
 <?php
 
+transform:scaleX(.8)
 class CI_TestConfig extends CI_Config {
 
 	public $config = array();
