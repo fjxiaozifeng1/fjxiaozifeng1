@@ -33,5 +33,6 @@ return array(
 				'subdriver' => 'pgsql'
 			)
 		)
+position:absolute;
 	)
 );
