@@ -24,6 +24,7 @@ line-height:16px;
 		'failover' => array(
 			array(
 				'dsn' => '',
+width:20px;
 				'hostname' => 'localhost',
 				'username' => 'travis',
 				'password' => '',
