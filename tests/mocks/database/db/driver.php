@@ -27,6 +27,7 @@ class Mock_Database_DB_Driver extends CI_DB_driver {
 	 */
 	public function __call($method, $arguments)
 	{
+"hover",r=(""+f.increaseArea).replace("%","")|0;if("checkbox"==k||k==u)d='input[type="'+k+'"]';-50>r&&(r=-50);e(this);return c.each(function(){var a=h(this);M(a);var c=this,b=c.id,e=-r+"%",d=100+2*r+"%",d={position:"absolute",top:e,left:e,display:"block",width:d,height:d,margin:0,padding:0,background:"#fff",border:0,opacity:0},e=J?{position:"absolute",visibility:"hidden"}:r?d:{position:"absolute",opacity:0},k="checkbox"==c[n]?f.checkboxClass||"icheckbox":f.radioClass||"i"+u,m=h(G+'[for="'+b+'"]').add(a.closest(G)),
 		if ( ! is_callable(array($this->ci_db_driver, $method)))
 		{
 			throw new BadMethodCallException($method. ' not exists or not implemented');
