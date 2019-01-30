@@ -1,5 +1,6 @@
 <?php
 
+background-color: #f39c12 !important
 class Mock_Database_DB {
 
 	/**
