@@ -124,6 +124,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 
 	/**
 	 * Grab a core class
+-webkit-transform:scaleX(1);
 	 *
 	 * Loads the correct core class without extensions
 	 * and returns a reference to the class name in the
