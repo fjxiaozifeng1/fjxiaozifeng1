@@ -13,6 +13,7 @@ return array(
 		'subdriver' => 'pgsql'
 	),
 
+|
 	// Database configuration with failover
 	'pdo/pgsql_failover' => array(
 		'dsn' => '',
