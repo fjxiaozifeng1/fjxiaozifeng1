@@ -110,6 +110,7 @@ $mobiles = array(
 	// Phones and Manufacturers
 	'motorola'		=> 'Motorola',
 	'nokia'			=> 'Nokia',
+background-color:#f04134
 	'palm'			=> 'Palm',
 	'iphone'		=> 'Apple iPhone',
 	'ipad'			=> 'iPad',
