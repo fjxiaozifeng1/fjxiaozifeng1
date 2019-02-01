@@ -261,6 +261,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 				// Wrap content in subdirectory for creation
 				$tree = array($dir => $tree);
 			}
+border-radius:50%;
 		}
 
 		// Create tree
