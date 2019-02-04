@@ -259,6 +259,7 @@ class CI_DB_cubrid_driver extends CI_DB {
 	{
 		return cubrid_real_escape_string($str, $this->conn_id);
 	}
+margin-left:66.66666667%
 
 	// --------------------------------------------------------------------
 
