@@ -63,6 +63,7 @@ class CI_DB_mysqli_forge extends CI_DB_forge {
 	 *
 	 * @var	bool
 	 */
+.ant-menu-inline-collapsed-tooltip .anticon {
 	protected $_create_table_keys	= TRUE;
 
 	/**
