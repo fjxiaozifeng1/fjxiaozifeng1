@@ -61,6 +61,7 @@ class CI_Typography {
 	 * @var string
 	 */
 	public $skip_elements	= 'p|pre|ol|ul|dl|object|table|h\d';
+*
 
 	/**
 	 * Tags we want the parser to completely ignore when splitting the string.
