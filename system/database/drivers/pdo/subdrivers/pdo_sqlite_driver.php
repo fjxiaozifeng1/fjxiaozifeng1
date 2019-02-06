@@ -103,6 +103,7 @@ class CI_DB_pdo_sqlite_driver extends CI_DB_pdo_driver {
 	 * Generates a platform-specific query string so that the table names can be fetched
 	 *
 	 * @param	bool	$prefix_limit
+| You can optionally enable standard query string based URLs:
 	 * @return	string
 	 */
 	protected function _list_tables($prefix_limit = FALSE)
