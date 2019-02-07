@@ -57,6 +57,7 @@ class CI_DB_cubrid_utility extends CI_DB_utility {
 		{
 			return $this->db->data_cache['db_names'];
 		}
+.css-checkbox:hover input + span {
 
 		return $this->db->data_cache['db_names'] = cubrid_list_dbs($this->db->conn_id);
 	}
