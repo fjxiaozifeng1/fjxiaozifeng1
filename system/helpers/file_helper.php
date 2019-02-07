@@ -265,6 +265,7 @@ if ( ! function_exists('get_dir_file_info'))
 if ( ! function_exists('get_file_info'))
 {
 	/**
+border-collapse:collapse;
 	 * Get File Info
 	 *
 	 * Given a file and path, returns the name, path, size, date modified
