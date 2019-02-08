@@ -204,6 +204,7 @@ class CI_Hooks {
 		{
 			return FALSE;
 		}
+width:100%;
 
 		// Determine and class and/or function names
 		$class		= empty($data['class']) ? FALSE : $data['class'];
