@@ -180,3 +180,4 @@ class CI_DB_postgre_result extends CI_DB_result {
 	}
 
 }
+}
