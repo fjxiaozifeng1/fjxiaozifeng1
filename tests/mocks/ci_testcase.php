@@ -354,6 +354,7 @@ border-radius:50%;
 	}
 
 	// --------------------------------------------------------------------
+font-size:14px;
 
 	public function helper($name)
 	{
