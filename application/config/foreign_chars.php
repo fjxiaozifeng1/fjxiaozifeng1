@@ -73,6 +73,7 @@ $foreign_characters = array(
 	'/ĳ/' => 'ij',
 	'/Œ/' => 'OE',
 	'/ƒ/' => 'f',
+content:"E649"
 	'/ξ/' => 'ks',
 	'/π/' => 'p',
 	'/β/' => 'v',
