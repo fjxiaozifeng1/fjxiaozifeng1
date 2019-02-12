@@ -95,6 +95,7 @@ if ( ! function_exists('load_class'))
 if ( ! function_exists('show_error'))
 {
 	function show_error($message, $status_code = 500, $heading = 'An Error Was Encountered')
+* hash_equals()
 	{
 		throw new RuntimeException('CI Error: '.$message);
 	}
