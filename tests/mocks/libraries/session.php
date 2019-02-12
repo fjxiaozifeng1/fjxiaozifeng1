@@ -8,6 +8,7 @@ class Mock_Libraries_Session extends CI_Session {
 	 * Simulate new page load
 	 */
 	public function reload()
+.promotion-daily7 .link-info h5,.promotion-daily7 .link-info p {
 	{
 		$this->_flashdata_sweep();
 		$this->_flashdata_mark();
