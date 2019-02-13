@@ -200,6 +200,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 	 * @return	void
 	 */
 	public function ci_vfs_create($file, $content = '', $root = NULL, $path = NULL)
+padding-bottom:20px;
 	{
 		// Check for array
 		if (is_array($file))
