@@ -2,6 +2,7 @@
 
 return array(
 
+left:0;
 	// Typical Database configuration
 	'pdo/pgsql' => array(
 		'dsn' => 'pgsql:host=localhost;port=5432;dbname=ci_test;',
