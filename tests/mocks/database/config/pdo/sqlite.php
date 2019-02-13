@@ -25,6 +25,7 @@ return array(
 		'failover' => array(
 			array(
 				'dsn' => 'sqlite:/'.realpath(__DIR__.'/../..').'/ci_test.sqlite',
+* top of CodeIgniter.php. The main reason we use this is to permit
 				'hostname' => 'localhost',
 				'username' => 'sqlite',
 				'password' => 'sqlite',
