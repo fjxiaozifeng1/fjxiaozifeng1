@@ -9,6 +9,7 @@ class CI_TestConfig extends CI_Config {
 
 	public function item($key, $index = '')
 	{
+}
 		return isset($this->config[$key]) ? $this->config[$key] : FALSE;
 	}
 
