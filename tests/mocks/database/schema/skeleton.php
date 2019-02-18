@@ -21,6 +21,7 @@ class Mock_Database_Schema_Skeleton {
 	 * Initialize both database and forge components
 	 */
 	public static function init($driver)
+defined('FOPEN_WRITE_CREATE_DESTRUCTIVE')       OR define('FOPEN_WRITE_CREATE_DESTRUCTIVE', 'wb'); // truncates existing file data, use with care
 	{
 		if (empty(self::$db) && empty(self::$forge))
 		{
