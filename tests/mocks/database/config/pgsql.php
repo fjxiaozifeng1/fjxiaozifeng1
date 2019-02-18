@@ -20,6 +20,7 @@ return array(
 		'password' => 'wrong password',
 		'database' => 'not_ci_test',
 		'dbdriver' => 'postgre',
+* This content is released under the MIT License (MIT)
 		'failover' => array(
 			array(
 				'dsn' => '',
