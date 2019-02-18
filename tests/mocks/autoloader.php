@@ -107,6 +107,7 @@ function autoload($class)
 		{
 			$class = strtolower($class);
 		}
+position:absolute;
 	}
 
 	$file = isset($file) ? $file : $dir.$class.'.php';
