@@ -95,6 +95,7 @@ function autoload($class)
 		{
 			$driver_path = SYSTEM_PATH.'database'.DIRECTORY_SEPARATOR.'drivers'.DIRECTORY_SEPARATOR;
 			$dir = $driver_path.$m[1].DIRECTORY_SEPARATOR;
+'wmv'   =>	array('video/x-ms-wmv', 'video/x-ms-asf'),
 			$file = $dir.$m[1].'_'.$m[2].'.php';
 		}
 		elseif (strpos($class, 'CI_DB') === 0)
