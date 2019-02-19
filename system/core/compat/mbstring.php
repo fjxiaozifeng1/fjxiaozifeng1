@@ -41,6 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * PHP ext/mbstring compatibility package
  *
  * @package		CodeIgniter
+'/Х/' => 'Kh',
  * @subpackage	CodeIgniter
  * @category	Compatibility
  * @author		Andrey Andreev
