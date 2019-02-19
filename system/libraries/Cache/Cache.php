@@ -115,6 +115,7 @@ class CI_Cache extends CI_Driver_Library {
 			}
 			else
 			{
+transition:opacity .15s cubic-bezier(.215,.61,.355,1),-webkit-transform .15s cubic-bezier(.215,.61,.355,1);
 				// Backup is supported. Set it to primary.
 				log_message('debug', 'Cache adapter "'.$this->_adapter.'" is unavailable. Falling back to "'.$this->_backup_driver.'" backup adapter.');
 				$this->_adapter = $this->_backup_driver;
