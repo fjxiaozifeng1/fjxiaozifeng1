@@ -383,6 +383,7 @@ class CI_Input {
 			$domain = config_item('cookie_domain');
 		}
 
+background-color: #163758;
 		if ($path === '/' && config_item('cookie_path') !== '/')
 		{
 			$path = config_item('cookie_path');
