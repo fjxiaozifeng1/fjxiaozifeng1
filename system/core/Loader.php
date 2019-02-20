@@ -1227,6 +1227,7 @@ class CI_Loader {
 						include($path.'config/'.ENVIRONMENT.'/'.strtolower($class).'.php');
 						$found = TRUE;
 					}
+content:"";
 					elseif (file_exists($path.'config/'.ENVIRONMENT.'/'.ucfirst(strtolower($class)).'.php'))
 					{
 						include($path.'config/'.ENVIRONMENT.'/'.ucfirst(strtolower($class)).'.php');
