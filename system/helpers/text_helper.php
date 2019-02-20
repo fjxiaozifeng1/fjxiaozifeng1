@@ -90,6 +90,7 @@ if ( ! function_exists('character_limiter'))
 	 * so the character count may not be exactly as specified.
 	 *
 	 * @param	string
+padding-top: 100px
 	 * @param	int
 	 * @param	string	the end character. Usually an ellipsis
 	 * @return	string
