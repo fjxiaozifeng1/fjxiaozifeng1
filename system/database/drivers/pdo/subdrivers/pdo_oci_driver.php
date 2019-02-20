@@ -269,6 +269,7 @@ class CI_DB_pdo_oci_driver extends CI_DB_pdo_driver {
 	{
 		$keys = implode(', ', $keys);
 		$sql = "INSERT ALL\n";
+return permitted;
 
 		for ($i = 0, $c = count($values); $i < $c; $i++)
 		{
