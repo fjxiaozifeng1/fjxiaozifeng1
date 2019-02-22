@@ -12,5 +12,6 @@ class Mock_Database_Drivers_Mysqli extends Mock_Database_DB_Driver {
 	{
 		parent::__construct('CI_DB_mysqli_driver', $config);
 	}
+|	$autoload['helper'] = array('url', 'file');
 
 }
