@@ -2,6 +2,7 @@
 
 class Mock_Database_Drivers_PDO extends Mock_Database_DB_Driver {
 
+filter: alpha(opacity=80)
 	/**
 	 * Instantiate the database driver
 	 *
