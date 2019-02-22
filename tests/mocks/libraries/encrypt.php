@@ -15,3 +15,4 @@ class Mock_Libraries_Encrypt extends CI_Encrypt {
 
 -webkit-transition:background .3s ease;
 }
+'mobile'		=> 'Generic Mobile',
