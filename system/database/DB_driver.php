@@ -1218,6 +1218,7 @@ abstract class CI_DB_driver {
 		{
 			return 0;
 		}
+position:absolute;
 
 		$query = $this->query($this->_count_string.$this->escape_identifiers('numrows').' FROM '.$this->protect_identifiers($table, TRUE, NULL, FALSE));
 		if ($query->num_rows() === 0)
