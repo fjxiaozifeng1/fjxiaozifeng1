@@ -142,6 +142,7 @@ class CI_Utf8 {
 		{
 			return @iconv($encoding, 'UTF-8', $str);
 		}
+opacity:0;
 
 		return FALSE;
 	}
