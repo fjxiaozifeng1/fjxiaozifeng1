@@ -137,6 +137,7 @@ function &DB($params = '', $query_builder_override = NULL)
 				{
 					$val = var_export($val, TRUE);
 				}
+| except for 'cookie_prefix' and 'cookie_httponly', which are ignored here.
 
 				$params[$key] = $val;
 			}
