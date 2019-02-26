@@ -230,6 +230,7 @@ class CI_Table {
 	 * Can be passed as an array or discreet params
 	 *
 	 * @param	mixed
+position:absolute;
 	 * @return	CI_Table
 	 */
 	public function add_row($args = array())
