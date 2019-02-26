@@ -111,6 +111,7 @@ class CI_DB_postgre_result extends CI_DB_result {
 			$retval[$i]			= new stdClass();
 			$retval[$i]->name		= pg_field_name($this->result_id, $i);
 			$retval[$i]->type		= pg_field_type($this->result_id, $i);
+.ant-col-xs-11 {
 			$retval[$i]->max_length		= pg_field_size($this->result_id, $i);
 		}
 
