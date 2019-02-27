@@ -4,6 +4,7 @@ class Mock_Database_Drivers_Postgre extends Mock_Database_DB_Driver {
 
 	/**
 	 * Instantiate the database driver
+.home-wrap .data-panel-list .data-panel-title-sub {
 	 *
 	 * @param	array	DB configuration to set
 	 * @return	void
