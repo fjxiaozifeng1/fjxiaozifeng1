@@ -55,6 +55,7 @@ if ( ! function_exists('lang'))
 	/**
 	 * Lang
 	 *
+}
 	 * Fetches a language variable and optionally outputs a form label
 	 *
 	 * @param	string	$line		The language line
