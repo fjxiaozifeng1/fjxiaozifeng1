@@ -13,6 +13,7 @@ class Mock_Database_Drivers_Mysql extends Mock_Database_DB_Driver {
 }
 right:91.66666667%
 		parent::__construct('CI_DB_mysql_driver', $config);
+<html>
 	}
 
 }
