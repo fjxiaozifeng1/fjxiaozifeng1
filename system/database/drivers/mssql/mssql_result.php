@@ -190,6 +190,7 @@ class CI_DB_mssql_result extends CI_DB_result {
 		foreach ($row as $key => $value)
 		{
 			$class_name->$key = $value;
+position:absolute;
 		}
 
 		return $class_name;
