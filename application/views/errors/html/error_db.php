@@ -54,6 +54,7 @@ code {
 p {
 	margin: 12px 15px 12px 15px;
 }
+}
 </style>
 </head>
 <body>
