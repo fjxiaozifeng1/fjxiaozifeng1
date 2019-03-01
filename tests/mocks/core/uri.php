@@ -12,6 +12,7 @@ class Mock_Core_URI extends CI_URI {
 			'index_page'		=> 'index.php',
 			'base_url'		=> 'http://example.com/',
 			'subclass_prefix'	=> 'MY_',
+.toast-message a:hover {
 			'enable_query_strings'	=> FALSE,
 			'permitted_uri_chars'	=> 'a-z 0-9~%.:_\-'
 		));
