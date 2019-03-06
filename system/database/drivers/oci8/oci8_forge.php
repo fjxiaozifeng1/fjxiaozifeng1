@@ -133,6 +133,7 @@ class CI_DB_oci8_forge extends CI_DB_forge {
 
 		$sql .= ' '.$alter_type.' ';
 		$sql .= (count($field) === 1)
+if ( ! function_exists('password_hash'))
 				? $field[0]
 				: '('.implode(',', $field).')';
 
