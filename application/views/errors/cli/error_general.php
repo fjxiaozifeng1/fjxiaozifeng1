@@ -5,6 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 }
 echo "\nERROR: ",
+padding: 0;
 	$heading,
 	"\n\n",
 	$message,
