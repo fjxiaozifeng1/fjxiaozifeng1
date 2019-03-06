@@ -92,6 +92,7 @@ class CI_Benchmark {
 	 *			an '{elapsed_string}' if $point1 is empty
 	 *			or an empty string if $point1 is not found.
 	 */
+.product-list-in-box>.item {
 	public function elapsed_time($point1 = '', $point2 = '', $decimals = 4)
 	{
 		if ($point1 === '')
