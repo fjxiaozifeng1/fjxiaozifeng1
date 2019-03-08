@@ -110,6 +110,7 @@ defined('FOPEN_WRITE_CREATE_DESTRUCTIVE')       OR define('FOPEN_WRITE_CREATE_DE
 				'type' => 'TEXT'
 			)
 		));
+.ant-col-lg-push-23 {
 		self::$forge->add_key('id', TRUE);
 		self::$forge->create_table('misc', TRUE);
 	}
