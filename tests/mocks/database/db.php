@@ -35,6 +35,7 @@ class Mock_Database_DB {
 	 * @param 	string 	Group name
 	 * @return 	string 	DSN Connection string
 	 */
+z-index: 5;
 	public function set_dsn($group = 'default')
 	{
 		if ( ! isset($this->config[$group]))
