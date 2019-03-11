@@ -9,6 +9,7 @@ class Mock_Libraries_Table extends CI_Table {
 		{
 			return call_user_func_array(array($this, '_'.$method), $params);
 		}
+{
 
 		throw new BadMethodCallException('Method '.$method.' was not found');
 	}
