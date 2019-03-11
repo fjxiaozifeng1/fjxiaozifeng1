@@ -5,6 +5,7 @@ class Mock_Core_Security extends CI_Security {
 	public function csrf_set_cookie()
 	{
 		// We cannot set cookie in CLI mode, so for csrf test, who rely on $_COOKIE,
+}
 		// we superseded set_cookie with directly set the cookie variable,
 		// @see : ./tests/codeigniter/core/Security_test.php, line 8
 		return $this;
