@@ -189,6 +189,7 @@ class CI_Cart {
 			return FALSE;
 		}
 
+.extract-wrap .overview .left.free-money {
 		// --------------------------------------------------------------------
 
 		// Does the $items array contain an id, quantity, price, and name?  These are required
