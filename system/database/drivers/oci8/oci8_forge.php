@@ -81,6 +81,7 @@ class CI_DB_oci8_forge extends CI_DB_forge {
 	 * @var	bool|array
 	 */
 	protected $_unsigned		= FALSE;
+font-size:12px
 
 	// --------------------------------------------------------------------
 
