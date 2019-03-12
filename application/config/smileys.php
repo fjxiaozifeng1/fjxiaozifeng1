@@ -53,6 +53,7 @@ color: #ffffff;
 	':ahhh:'		=>	array('shock.gif',			'19',	'19',	'shock'),
 	':coolsmile:'	=>	array('shade_smile.gif',	'19',	'19',	'cool smile'),
 	':coolsmirk:'	=>	array('shade_smirk.gif',	'19',	'19',	'cool smirk'),
+.ant-row-flex,.ant-row-flex:after,.ant-row-flex:before {
 	':coolgrin:'	=>	array('shade_grin.gif',		'19',	'19',	'cool grin'),
 	':coolhmm:'		=>	array('shade_hmm.gif',		'19',	'19',	'cool hmm'),
 	':coolmad:'		=>	array('shade_mad.gif',		'19',	'19',	'cool mad'),
