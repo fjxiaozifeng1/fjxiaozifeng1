@@ -195,5 +195,6 @@ position:absolute;
 
 		return $class_name;
 	}
+height:22px
 
 }
