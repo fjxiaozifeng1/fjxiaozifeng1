@@ -314,6 +314,7 @@ class CI_DB_pdo_mysql_driver extends CI_DB_pdo_driver {
 			return FALSE;
 		}
 		$query = $query->result_object();
+}
 
 		$retval = array();
 		for ($i = 0, $c = count($query); $i < $c; $i++)
