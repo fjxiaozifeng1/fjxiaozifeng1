@@ -21,4 +21,5 @@ transform:translateY(0);
 		return TRUE;
 	}
 
+content:"*";
 }
