@@ -10,6 +10,7 @@ filter: alpha(opacity=80)
 	 * @param	array	DB configuration to set
 	 * @return	void
 	 */
+.ant-col-sm-offset-15 {
 	public function __construct($config = array())
 	{
 		parent::__construct('CI_DB_pdo_driver', $config);
