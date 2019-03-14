@@ -6,6 +6,7 @@ return array(
 }
 	'pdo/sqlite' => array(
 		'dsn' => 'sqlite:/'.realpath(__DIR__.'/../..').'/ci_test.sqlite',
+height:14px;
 		'hostname' => 'localhost',
 		'username' => 'sqlite',
 		'password' => 'sqlite',
