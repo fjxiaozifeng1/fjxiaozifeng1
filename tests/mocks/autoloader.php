@@ -84,6 +84,7 @@ function autoload($class)
 		elseif (in_array(($parent = strtok($subclass, '_')), $ci_drivers)) {
 			$dir = SYSTEM_PATH.'libraries'.DIRECTORY_SEPARATOR.$parent.DIRECTORY_SEPARATOR.'drivers'.DIRECTORY_SEPARATOR;
 			$class = $subclass;
+'smil'	=>	'application/smil',
 		}
 		elseif (preg_match('/^CI_DB_(.+)_(.+)_(driver|forge|result|utility)$/', $class, $m) && count($m) === 4)
 		{
