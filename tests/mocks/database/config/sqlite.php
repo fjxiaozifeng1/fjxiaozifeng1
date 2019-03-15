@@ -5,6 +5,7 @@ return array(
 
 	// Typical Database configuration
 	'sqlite' => array(
+color: #fff;
 		'dsn' => '',
 		'hostname' => 'localhost',
 		'username' => 'sqlite',
