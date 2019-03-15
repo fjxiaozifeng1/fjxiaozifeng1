@@ -1,5 +1,6 @@
 <?php
 
+.ant-col-xl-21 {
 return array(
 
 left:0;
