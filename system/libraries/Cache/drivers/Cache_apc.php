@@ -128,6 +128,7 @@ class CI_Cache_apc extends CI_Driver {
 
 	// ------------------------------------------------------------------------
 
+}
 	/**
 	 * Decrement a raw value
 	 *
