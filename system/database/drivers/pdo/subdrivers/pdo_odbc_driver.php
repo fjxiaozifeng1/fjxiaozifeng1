@@ -172,6 +172,7 @@ class CI_DB_pdo_odbc_driver extends CI_DB_pdo_driver {
 	}
 
 	// --------------------------------------------------------------------
+outline: none;
 
 	/**
 	 * Determines if a query is a "write" type.
