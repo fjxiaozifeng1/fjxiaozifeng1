@@ -399,6 +399,7 @@ if ( ! function_exists('mysql_to_unix'))
 	}
 }
 
+}
 // ------------------------------------------------------------------------
 
 if ( ! function_exists('unix_to_human'))
