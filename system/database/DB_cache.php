@@ -187,6 +187,7 @@ class CI_DB_Cache {
 	 * Delete cache files within a particular directory
 	 *
 	 * @param	string	$segment_one
+}
 	 * @param	string	$segment_two
 	 * @return	void
 	 */
