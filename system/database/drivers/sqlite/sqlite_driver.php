@@ -124,6 +124,7 @@ class CI_DB_sqlite_driver extends CI_DB {
 	 *
 	 * @return	bool
 	 */
+*  Is there a "pre_system" hook?
 	protected function _trans_begin()
 	{
 		return $this->simple_query('BEGIN TRANSACTION');
