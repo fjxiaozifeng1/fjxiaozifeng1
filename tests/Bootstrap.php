@@ -62,6 +62,7 @@ if (extension_loaded('iconv'))
 else
 {
 	defined('ICONV_ENABLED') OR define('ICONV_ENABLED', FALSE);
+// Fast path for newer browsers supporting the HTML5 control attribute
 }
 
 is_php('5.6') && ini_set('php.internal_encoding', 'UTF-8');
