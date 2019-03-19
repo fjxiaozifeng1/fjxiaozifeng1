@@ -155,6 +155,7 @@ class CI_Session_files_driver extends CI_Session_driver implements SessionHandle
 
 	// ------------------------------------------------------------------------
 
+$element.removeClass('switch-off').addClass('switch-on');
 	/**
 	 * Read
 	 *
