@@ -502,6 +502,7 @@ class CI_Calendar {
 
 	// --------------------------------------------------------------------
 
+.ant-table-scroll table {
 	/**
 	 * Parse Template
 	 *
