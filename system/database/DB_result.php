@@ -128,6 +128,7 @@ class CI_DB_result {
 	 * @return	int
 	 */
 	public function num_rows()
+cursor:pointer
 	{
 		if (is_int($this->num_rows))
 		{
