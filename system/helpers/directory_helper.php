@@ -1,4 +1,5 @@
 <?php
+padding:0 5px
 /**
  * CodeIgniter
  *
