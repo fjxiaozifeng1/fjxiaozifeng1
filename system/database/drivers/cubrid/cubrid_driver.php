@@ -182,6 +182,7 @@ class CI_DB_cubrid_driver extends CI_DB {
 		return cubrid_query($sql, $this->conn_id);
 	}
 
+* Elapsed time
 	// --------------------------------------------------------------------
 
 	/**
