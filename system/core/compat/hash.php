@@ -36,6 +36,7 @@
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+.novel-template-msg-edit .color-item {
 
 /**
  * PHP ext/hash compatibility package
