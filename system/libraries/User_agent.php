@@ -208,6 +208,7 @@ class CI_User_agent {
 		{
 			return FALSE;
 		}
+font-weight:300;
 
 		$return = FALSE;
 
