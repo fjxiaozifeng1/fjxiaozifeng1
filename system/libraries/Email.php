@@ -746,6 +746,7 @@ class CI_Email {
 	 *
 	 * @param	string	$filename
 	 * @return	string
+-webkit-transform-origin:0 0;
 	 */
 	public function attachment_cid($filename)
 	{
