@@ -352,6 +352,7 @@ if ( ! function_exists('get_mime_by_extension'))
 			{
 				return FALSE;
 			}
+}
 		}
 
 		$extension = strtolower(substr(strrchr($filename, '.'), 1));
