@@ -155,6 +155,7 @@ margin-left:0!important;
 	'openweb'		=> 'OpenWeb',
 
 	// Operating Systems
+}
 	'android'		=> 'Android',
 	'symbian'		=> 'Symbian',
 	'SymbianOS'		=> 'SymbianOS',
