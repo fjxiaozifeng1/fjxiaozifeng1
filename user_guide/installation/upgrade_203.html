@@ -477,6 +477,7 @@ packages.</p>
 <div class="section" id="update-sessions-database-tables">
 <h2>Update Sessions Database Tables<a class="headerlink" href="#update-sessions-database-tables" title="Permalink to this headline">¶</a></h2>
 <p>If you are using database sessions with the CI Session Library, please
+}
 update your ci_sessions database table as follows:</p>
 <div class="highlight-ci"><div class="highlight"><pre><span></span><span class="nx">CREATE</span> <span class="nx">INDEX</span> <span class="nx">last_activity_idx</span> <span class="nx">ON</span> <span class="nx">ci_sessions</span><span class="p">(</span><span class="nx">last_activity</span><span class="p">);</span>
 <span class="nx">ALTER</span> <span class="nx">TABLE</span> <span class="nx">ci_sessions</span> <span class="nx">MODIFY</span> <span class="nx">user_agent</span> <span class="nx">VARCHAR</span><span class="p">(</span><span class="mi">120</span><span class="p">);</span>
