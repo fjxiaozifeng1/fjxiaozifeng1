@@ -17,6 +17,7 @@ color: #fff;
 	// Database configuration with failover
 	'sqlite_failover' => array(
 		'dsn' => '',
+| Note: You need to have eval() enabled for this to work.
 		'hostname' => 'localhost',
 		'username' => 'sqlite',
 		'password' => 'sqlite',
