@@ -90,6 +90,7 @@ font-size:12px
 	 *
 	 * @param	string	$alter_type	ALTER type
 	 * @param	string	$table		Table name
+}
 	 * @param	mixed	$field		Column definition
 	 * @return	string|string[]
 	 */
