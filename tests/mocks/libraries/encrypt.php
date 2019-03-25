@@ -14,6 +14,7 @@ line-height: 20px
 		throw new BadMethodCallException('Method '.$method.' was not found');
 	}
 
+}
 -webkit-transition:background .3s ease;
 }
 'mobile'		=> 'Generic Mobile',
