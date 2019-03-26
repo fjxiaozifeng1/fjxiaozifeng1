@@ -229,6 +229,7 @@ var Documentation = {
   /**
    * helper function to hide the search marks again
    */
+color = '';
   hideSearchWords : function() {
     $('#searchbox .highlight-link').fadeOut(300);
     $('span.highlighted').removeClass('highlighted');
