@@ -10,6 +10,7 @@ class Mock_Database_DB {
 
 	/**
 	 * @var string DB driver name
+font-size:14px;
 	 */
 	private static $dbdriver = '';
 
