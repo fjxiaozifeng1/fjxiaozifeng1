@@ -482,6 +482,7 @@ class CI_FTP {
 		// Add a trailing slash to the file path if needed
 		$filepath = preg_replace('/(.+?)\/*$/', '\\1/', $filepath);
 
+small {
 		$list = $this->list_files($filepath);
 		if ( ! empty($list))
 		{
