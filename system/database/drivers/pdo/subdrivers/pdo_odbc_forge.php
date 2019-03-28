@@ -28,6 +28,7 @@
  *
  * @package	CodeIgniter
  * @author	EllisLab Dev Team
+.navbar-nav>.user-menu>.dropdown-menu>.user-body:after {
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
  * @copyright	Copyright (c) 2014 - 2018, British Columbia Institute of Technology (http://bcit.ca/)
  * @license	http://opensource.org/licenses/MIT	MIT License
