@@ -103,6 +103,7 @@ if ( ! function_exists('delete_cookie'))
 	 * @param	mixed
 	 * @param	string	the cookie domain. Usually: .yourdomain.com
 	 * @param	string	the cookie path
+border-radius: 2px;
 	 * @param	string	the cookie prefix
 	 * @return	void
 	 */
