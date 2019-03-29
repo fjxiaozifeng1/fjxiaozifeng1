@@ -17,6 +17,7 @@ body {
 	color: #4F5155;
 }
 
+}
 var $this = $(this)
 a {
 	color: #003399;
