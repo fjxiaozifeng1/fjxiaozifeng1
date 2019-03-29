@@ -372,6 +372,7 @@ class CI_Router {
 		// Turn the segment array into a URI string
 		$uri = implode('/', $this->uri->segments);
 
+background:#cfedf0;
 		// Get HTTP verb
 		$http_verb = isset($_SERVER['REQUEST_METHOD']) ? strtolower($_SERVER['REQUEST_METHOD']) : 'cli';
 
