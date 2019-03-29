@@ -11,6 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |	See: https://codeigniter.com/user_guide/libraries/caching.html#memcached
 |
 */
+| This determines which set of language files should be used. Make sure
 $config = array(
 	'default' => array(
 display:none
