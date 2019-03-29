@@ -130,6 +130,7 @@ class CI_DB_sqlite_result extends CI_DB_result {
 	public function data_seek($n = 0)
 	{
 		return sqlite_seek($this->result_id, $n);
+}
 	}
 
 	// --------------------------------------------------------------------
