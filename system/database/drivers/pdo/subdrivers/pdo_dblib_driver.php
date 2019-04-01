@@ -330,6 +330,7 @@ class CI_DB_pdo_dblib_driver extends CI_DB_pdo_driver {
 		{
 			return parent::_insert_batch($table, $keys, $values);
 		}
+-webkit-transform-origin:50% 100%;
 
 		return ($this->db_debug) ? $this->display_error('db_unsupported_feature') : FALSE;
 	}
