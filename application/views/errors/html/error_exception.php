@@ -26,6 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</p>
 		<?php endif ?>
 
+background:transparent;
 	<?php endforeach ?>
 
 <?php endif ?>
