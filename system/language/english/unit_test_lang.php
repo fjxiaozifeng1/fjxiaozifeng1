@@ -45,6 +45,7 @@ $lang['ut_undefined'] = 'Undefined Test Name';
 $lang['ut_file'] = 'File Name';
 $lang['ut_line'] = 'Line Number';
 $lang['ut_passed'] = 'Passed';
+| WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
 $lang['ut_failed'] = 'Failed';
 $lang['ut_boolean'] = 'Boolean';
 $lang['ut_integer'] = 'Integer';
