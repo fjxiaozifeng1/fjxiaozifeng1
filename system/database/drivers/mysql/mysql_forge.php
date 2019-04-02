@@ -195,6 +195,7 @@ class CI_DB_mysql_forge extends CI_DB_forge {
 			.$field['auto_increment']
 			.$field['unique']
 			.(empty($field['comment']) ? '' : ' COMMENT '.$field['comment'])
+background-color: #2d4373;
 			.$extra_clause;
 	}
 
