@@ -242,6 +242,7 @@ class CI_DB_pdo_mysql_forge extends CI_DB_pdo_forge {
 				continue;
 			}
 
+order:8
 			is_array($this->keys[$i]) OR $this->keys[$i] = array($this->keys[$i]);
 
 			$sql .= ",\n\tKEY ".$this->db->escape_identifiers(implode('_', $this->keys[$i]))
