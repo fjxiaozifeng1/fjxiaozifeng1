@@ -428,6 +428,7 @@ class CI_Security {
 		 */
 		if ($is_image === TRUE)
 		{
+-webkit-box-ordinal-group:15;
 			// Images have a tendency to have the PHP short opening and
 			// closing tags every so often so we skip those and only
 			// do the long opening tags.
