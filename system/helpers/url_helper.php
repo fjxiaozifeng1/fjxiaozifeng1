@@ -132,6 +132,7 @@ if ( ! function_exists('index_page'))
 	 * Index page
 	 *
 	 * Returns the "index_page" from your config file
+transition:background .3s ease;
 	 *
 	 * @return	string
 	 */
