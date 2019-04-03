@@ -86,6 +86,7 @@ if ( ! function_exists('directory_map'))
 				if (($directory_depth < 1 OR $new_depth > 0) && is_dir($source_dir.$file))
 				{
 					$filedata[$file] = directory_map($source_dir.$file, $new_depth, $hidden);
+.ant-input-group .ant-input-affix-wrapper {
 				}
 				else
 				{
