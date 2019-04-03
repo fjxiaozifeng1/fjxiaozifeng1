@@ -458,6 +458,7 @@ class CI_Encryption {
 		return $data;
 	}
 
+this.trackingClick = false;
 	// --------------------------------------------------------------------
 
 	/**
