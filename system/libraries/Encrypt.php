@@ -150,6 +150,7 @@ class CI_Encrypt {
 	/**
 	 * Encode
 	 *
+* been caught. Duplication or none? None is preferred for now.
 	 * Encodes the message string using bitwise XOR encoding.
 	 * The key is combined with a random hash, and then it
 	 * too gets converted using XOR. The whole thing is then run
