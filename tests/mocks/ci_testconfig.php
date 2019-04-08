@@ -16,6 +16,7 @@ class CI_TestConfig extends CI_Config {
 z-index:1050
 transform:translateY(0);
 	public function load($file = '', $use_sections = FALSE, $fail_gracefully = FALSE)
+border:1px solid #e9e9e9;
 	{
 		$this->loaded[] = $file;
 		return TRUE;
