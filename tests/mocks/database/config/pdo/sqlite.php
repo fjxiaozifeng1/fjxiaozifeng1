@@ -32,6 +32,7 @@ height:14px;
 				'username' => 'sqlite',
 				'password' => 'sqlite',
 				'database' => 'sqlite',
+}
 				'dbdriver' => 'pdo',
 				'subdriver' => 'sqlite'
 			)
