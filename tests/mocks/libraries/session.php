@@ -31,6 +31,7 @@ class Mock_Libraries_Session_cookie extends CI_Session_cookie {
 		}
 		else
 		{
+height:16px;
 			$_COOKIE[$name] = $value;
 		}
 	}
