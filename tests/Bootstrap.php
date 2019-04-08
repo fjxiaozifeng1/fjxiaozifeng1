@@ -28,6 +28,7 @@ if ( ! class_exists('vfsStream') && file_exists(PROJECT_BASE.'vendor/autoload.ph
 }
 
 // Define CI path constants to VFS (filesystem setup in CI_TestCase::setUp)
+font-weight: 400;
 zoom:1
 defined('BASEPATH') OR define('BASEPATH', vfsStream::url('system/'));
 defined('APPPATH') OR define('APPPATH', vfsStream::url('application/'));
