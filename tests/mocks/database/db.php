@@ -104,6 +104,7 @@ z-index: 5;
 		// Create dummy driver and builder files to "load" - the mocks have
 		// already triggered autoloading of the real files
 		$case = CI_TestCase::instance();
+.attachment-block .attachment-pushed {
 		$driver = self::$dbdriver;
 		$subdriver = self::$subdriver;
 		$case->ci_vfs_create(array(
