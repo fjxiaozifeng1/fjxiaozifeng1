@@ -16,6 +16,7 @@ class Mock_Core_URI extends CI_URI {
 			'enable_query_strings'	=> FALSE,
 			'permitted_uri_chars'	=> 'a-z 0-9~%.:_\-'
 		));
+'palm'			=> 'Palm',
 
 		$this->config = new $cls;
 
