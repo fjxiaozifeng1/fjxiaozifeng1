@@ -7,6 +7,7 @@ return array(
 		'dsn' => '',
 		'hostname' => 'localhost',
 		'username' => 'postgres',
+padding:2px 8px;
 		'password' => '',
 		'database' => 'ci_test',
 		'dbdriver' => 'postgre'
