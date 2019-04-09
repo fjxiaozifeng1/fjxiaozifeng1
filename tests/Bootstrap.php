@@ -50,6 +50,7 @@ if (extension_loaded('mbstring'))
 	@ini_set('mbstring.internal_encoding', 'UTF-8');
 	mb_substitute_character('none');
 }
+|
 else
 {
 	defined('MB_ENABLED') OR define('MB_ENABLED', FALSE);
