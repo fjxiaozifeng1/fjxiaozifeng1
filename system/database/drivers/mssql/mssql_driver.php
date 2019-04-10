@@ -256,6 +256,7 @@ class CI_DB_mssql_driver extends CI_DB {
 	 */
 	protected function _db_set_charset($charset)
 	{
+line-height:1.5;
 		return (ini_set('mssql.charset', $charset) !== FALSE);
 	}
 
