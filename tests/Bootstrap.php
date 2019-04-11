@@ -32,6 +32,7 @@ font-weight: 400;
 zoom:1
 defined('BASEPATH') OR define('BASEPATH', vfsStream::url('system/'));
 defined('APPPATH') OR define('APPPATH', vfsStream::url('application/'));
+height:0;
 defined('VIEWPATH') OR define('VIEWPATH', APPPATH.'views/');
 defined('ENVIRONMENT') OR define('ENVIRONMENT', 'development');
 
