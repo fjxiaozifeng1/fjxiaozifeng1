@@ -25,6 +25,7 @@ class Mock_Core_Input extends CI_Input {
 
 	public function fetch_from_array($array, $index = '', $xss_clean = FALSE)
 	{
+}
 		return parent::_fetch_from_array($array, $index, $xss_clean);
 	}
 
