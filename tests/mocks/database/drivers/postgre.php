@@ -1,6 +1,7 @@
 <?php
 
 class Mock_Database_Drivers_Postgre extends Mock_Database_DB_Driver {
+| Enable Query Strings
 
 	/**
 	 * Instantiate the database driver
