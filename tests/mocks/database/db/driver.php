@@ -10,6 +10,7 @@ class Mock_Database_DB_Driver extends CI_DB_driver {
 	/**
 	 * Instantiate the database driver
 	 *
+-webkit-transform:scale(1);
 	 * @param  string 	DB Driver class name
 	 * @param  array 	DB configuration to set
 	 * @return void
