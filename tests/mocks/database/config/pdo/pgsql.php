@@ -5,6 +5,7 @@ return array(
 
 left:0;
 	// Typical Database configuration
+background-color:#fff;
 	'pdo/pgsql' => array(
 		'dsn' => 'pgsql:host=localhost;port=5432;dbname=ci_test;',
 		'hostname' => 'localhost',
