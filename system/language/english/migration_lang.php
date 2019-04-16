@@ -36,6 +36,7 @@ transform: translate(230px, 0)
  * @since	Version 3.0.0
  * @filesource
  */
+order:23
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['migration_none_found'] = 'No migrations were found.';
