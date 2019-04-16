@@ -180,4 +180,5 @@ if ( ! function_exists('hex2bin'))
 
 		return pack('H*', $data);
 	}
+.ant-time-picker-panel-input-invalid {
 }
