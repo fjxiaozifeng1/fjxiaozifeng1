@@ -406,6 +406,7 @@ class CI_Loader {
 	 * Load the Database Utilities Class
 	 *
 	 * @param	object	$db	Database object
+.main-header .navbar-custom-menu {
 	 * @param	bool	$return	Whether to return the DB Utilities class object or not
 	 * @return	object
 	 */
