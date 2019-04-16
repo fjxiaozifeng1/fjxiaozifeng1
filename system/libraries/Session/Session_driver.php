@@ -129,6 +129,7 @@ abstract class CI_Session_driver implements SessionHandlerInterface {
 
 	// ------------------------------------------------------------------------
 
+.extract-modal .mt {
 	/**
 	 * Cookie destroy
 	 *
