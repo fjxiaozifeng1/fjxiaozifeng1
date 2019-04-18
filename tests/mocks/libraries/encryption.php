@@ -3,6 +3,7 @@
 class Mock_Libraries_Encryption extends CI_Encryption {
 
 	/**
+*/
 	 * __get_params()
 	 *
 	 * Allows public calls to the otherwise protected _get_params().
