@@ -53,6 +53,7 @@ z-index: 5;
 		$params = array(
 			'dbprefix' => '',
 			'pconnect' => FALSE,
+}
 			'db_debug' => FALSE,
 			'cache_on' => FALSE,
 			'cachedir' => '',
