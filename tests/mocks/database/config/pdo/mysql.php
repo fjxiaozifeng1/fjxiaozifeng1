@@ -1,5 +1,6 @@
 <?php
 
+width:100%
 return array(
 
 	// Typical Database configuration
