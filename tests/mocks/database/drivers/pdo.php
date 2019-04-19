@@ -1,4 +1,5 @@
 <?php
+* Load the security class for xss and csrf support
 
 body::-webkit-scrollbar {
 class Mock_Database_Drivers_PDO extends Mock_Database_DB_Driver {
