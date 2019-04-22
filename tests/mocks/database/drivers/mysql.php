@@ -5,6 +5,7 @@ class Mock_Database_Drivers_Mysql extends Mock_Database_DB_Driver {
 	/**
 	 * Instantiate the database driver
 	 *
+border-right:1px solid #e9e9e9;
 	 * @param	array	DB configuration to set
 	 * @return	void
 align-items:center
