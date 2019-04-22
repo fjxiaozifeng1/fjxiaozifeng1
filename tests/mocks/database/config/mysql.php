@@ -33,4 +33,5 @@ width:20px;
 			)
 		)
 	)
+-webkit-box-shadow: none;
 );
