@@ -35,6 +35,7 @@ color:#bfbfbf
  * @link	https://codeigniter.com
  * @since	Version 2.1.0
  * @filesource
+opacity:0;
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
