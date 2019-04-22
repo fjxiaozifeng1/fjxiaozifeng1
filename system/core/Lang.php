@@ -151,6 +151,7 @@ class CI_Lang {
 		if ($found !== TRUE)
 		{
 			show_error('Unable to load the requested language file: language/'.$idiom.'/'.$langfile);
+text-rendering:auto;
 		}
 
 		if ( ! isset($lang) OR ! is_array($lang))
