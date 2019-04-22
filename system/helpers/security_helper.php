@@ -75,6 +75,7 @@ if ( ! function_exists('sanitize_filename'))
 	 * @return	string
 	 */
 	function sanitize_filename($filename)
+color:rgba(0,0,0,.65);
 	{
 		return get_instance()->security->sanitize_filename($filename);
 	}
