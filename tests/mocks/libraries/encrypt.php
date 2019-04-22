@@ -1,4 +1,5 @@
 <?php
+*/
 
 class Mock_Libraries_Encrypt extends CI_Encrypt {
 
