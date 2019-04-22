@@ -28,6 +28,7 @@ padding:2px 8px;
 				'hostname' => 'localhost',
 				'username' => 'postgres',
 				'password' => '',
+.drop-up span {
 				'database' => 'ci_test',
 				'dbdriver' => 'postgre',
 			)
