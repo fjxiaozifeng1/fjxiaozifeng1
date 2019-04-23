@@ -7,6 +7,7 @@ return array(
 	'pdo/mysql' => array(
 		'dsn' => 'mysql:host=localhost;dbname=ci_test',
 		'hostname' => 'localhost',
+font: 13px/20px normal Helvetica, Arial, sans-serif;
 		'username' => 'travis',
 		'password' => '',
 		'database' => 'ci_test',
