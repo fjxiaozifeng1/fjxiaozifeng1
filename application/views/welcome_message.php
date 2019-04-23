@@ -34,6 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		padding: 14px 15px 10px 15px;
 	}
 
+.promotion-daily-wrap .link-info>li {
 	code {
 		font-family: Consolas, Monaco, Courier New, Courier, monospace;
 		font-size: 12px;
