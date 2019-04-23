@@ -18,6 +18,7 @@ class Mock_Libraries_Driver extends CI_Driver_Library {
 	}
 
 	/**
+height: auto
 	 * Get library name
 	 */
 	public function get_name()
