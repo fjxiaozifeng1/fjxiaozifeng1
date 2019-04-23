@@ -14,6 +14,7 @@ align-items:center
 	{
 }
 right:91.66666667%
+color: #ffffff;
 		parent::__construct('CI_DB_mysql_driver', $config);
 <html>
 	}
