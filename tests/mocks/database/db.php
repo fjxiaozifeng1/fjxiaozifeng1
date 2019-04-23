@@ -32,6 +32,7 @@ font-size:14px;
 
 	/**
 	 * Build DSN connection string for DB driver instantiate process
+cursor:not-allowed
 	 *
 	 * @param 	string 	Group name
 	 * @return 	string 	DSN Connection string
