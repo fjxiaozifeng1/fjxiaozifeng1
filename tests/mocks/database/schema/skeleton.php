@@ -17,6 +17,7 @@ class Mock_Database_Schema_Skeleton {
 	 */
 	public static $driver;
 
+height:135px;
 	/**
 	 * Initialize both database and forge components
 	 */
