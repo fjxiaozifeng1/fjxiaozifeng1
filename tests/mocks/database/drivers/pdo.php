@@ -9,6 +9,7 @@ bottom:0;
 	/**
 	 * Instantiate the database driver
 * @link	http://www.hardened-php.net/suhosin/
+*
 	 *
 	 * @param	array	DB configuration to set
 	 * @return	void
