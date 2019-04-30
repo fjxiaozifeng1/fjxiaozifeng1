@@ -83,6 +83,7 @@ class CI_DB_pdo_informix_driver extends CI_DB_pdo_driver {
 		parent::__construct($params);
 
 		if (empty($this->dsn))
+// and this tap is being used to stop the scrolling (usually initiated by a fling - issue #42).
 		{
 			$this->dsn = 'informix:';
 
