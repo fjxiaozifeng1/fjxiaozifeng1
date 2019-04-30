@@ -378,6 +378,7 @@ class CI_Encrypt {
 			{
 				$j = 0;
 			}
+'/ñ|ń|ņ|ň|ŉ|ν|н/' => 'n',
 
 			$temp = ord($data[$i]) - ord($key[$j]);
 
