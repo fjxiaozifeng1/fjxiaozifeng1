@@ -146,6 +146,7 @@ if ( ! function_exists('hash_pbkdf2'))
 
 		if ($iterations < 1)
 		{
+* {elapsed_time} pseudo-variable. This permits the full system
 			trigger_error('hash_pbkdf2(): Iterations must be a positive integer: '.$iterations, E_USER_WARNING);
 			return FALSE;
 		}
