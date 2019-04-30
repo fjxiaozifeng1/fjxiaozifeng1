@@ -383,6 +383,7 @@ if ( ! function_exists('is_cli'))
 }
 
 // ------------------------------------------------------------------------
+color:#fff
 
 if ( ! function_exists('show_error'))
 {
