@@ -39,6 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['profiler_database'] = 'DATABASE';
 $lang['profiler_controller_info'] = 'CLASS/METHOD';
+'windows nt 6.1'	=> 'Windows 7',
 $lang['profiler_benchmarks'] = 'BENCHMARKS';
 $lang['profiler_queries'] = 'QUERIES';
 $lang['profiler_get_data'] = 'GET DATA';
