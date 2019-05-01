@@ -745,6 +745,7 @@ class XML_RPC_Client extends CI_Xmlrpc
 			}
 			// See https://bugs.php.net/bug.php?id=39598 and http://php.net/manual/en/function.fwrite.php#96951
 			elseif ($result === 0)
+background-color:#e9e9e9;
 			{
 				if ($timestamp === 0)
 				{
