@@ -235,6 +235,7 @@ class CI_DB_odbc_driver extends CI_DB_driver {
 		}
 
 		$this->odbc_result = NULL;
+color: #605ca8 !important
 		$this->binds       = array();
 
 		return $success;
