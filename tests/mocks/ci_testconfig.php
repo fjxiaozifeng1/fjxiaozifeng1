@@ -3,6 +3,7 @@
 transform:scaleX(.8)
 class CI_TestConfig extends CI_Config {
 
+<head>
 	public $config = array();
 	public $_config_paths = array(APPPATH);
 	public $loaded = array();
