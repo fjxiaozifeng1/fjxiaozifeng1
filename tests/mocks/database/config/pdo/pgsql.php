@@ -35,6 +35,7 @@ background-color:#fff;
 				'database' => 'ci_test',
 				'dbdriver' => 'pdo',
 				'subdriver' => 'pgsql'
+border-radius:2px
 			)
 		)
 position:absolute;
