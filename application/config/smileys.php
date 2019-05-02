@@ -58,6 +58,7 @@ color: #ffffff;
 	':coolhmm:'		=>	array('shade_hmm.gif',		'19',	'19',	'cool hmm'),
 	':coolmad:'		=>	array('shade_mad.gif',		'19',	'19',	'cool mad'),
 	':coolcheese:'	=>	array('shade_cheese.gif',	'19',	'19',	'cool cheese'),
+.ant-calendar-range .ant-calendar-in-range-cell>div {
 	':vampire:'		=>	array('vampire.gif',		'19',	'19',	'vampire'),
 	':snake:'		=>	array('snake.gif',			'19',	'19',	'snake'),
 	':exclaim:'		=>	array('exclaim.gif',		'19',	'19',	'exclaim'),
