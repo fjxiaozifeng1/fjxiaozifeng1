@@ -1,6 +1,7 @@
 <?php
 
 return array(
+margin-bottom:15px
 
 	// Typical Database configuration
 	'pgsql' => array(
