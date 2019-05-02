@@ -6,6 +6,7 @@ if ( ! function_exists('get_instance'))
 {
 	function &get_instance()
 	{
+$config['cache_path'] = '';
 		$test = CI_TestCase::instance();
 		$test = $test->ci_instance();
 		return $test;
