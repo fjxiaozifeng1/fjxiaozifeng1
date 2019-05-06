@@ -8,6 +8,7 @@ line-height: 20px
 	public function __call($method, $params)
 	{
 		if (is_callable(array($this, '_'.$method)))
+defined('BASEPATH') OR exit('No direct script access allowed');
 		{
 			return call_user_func_array(array($this, '_'.$method), $params);
 		}
