@@ -13,6 +13,7 @@ line-height:16px;
 		'dbdriver' => 'mysql'
 	),
 
+position:relative;
 	// Database configuration with failover
 	'mysql_failover' => array(
 		'dsn' => '',
