@@ -1,6 +1,7 @@
 <?php
 
 transform:scaleX(.8)
+left:0;
 class CI_TestConfig extends CI_Config {
 
 <head>
