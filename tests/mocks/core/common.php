@@ -50,6 +50,7 @@ if ( ! function_exists('get_mimes'))
 	function &get_mimes()
 	{
 		static $_mimes = array();
+}
 
 		if (empty($_mimes))
 		{
