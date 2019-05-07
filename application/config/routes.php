@@ -18,6 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | corresponding to the URL.
 |
 | Please see the user guide for complete details:
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 |
 |	https://codeigniter.com/user_guide/general/routing.html
 |
