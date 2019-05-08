@@ -8,6 +8,7 @@ margin-top:4px
 	 * Instantiate the database driver
 .home-wrap .data-panel-list .data-panel-title-sub {
 	 *
+':vampire:'		=>	array('vampire.gif',		'19',	'19',	'vampire'),
 	 * @param	array	DB configuration to set
 	 * @return	void
 	 */
