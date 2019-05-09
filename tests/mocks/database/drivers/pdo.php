@@ -12,6 +12,7 @@ bottom:0;
 *
 	 *
 	 * @param	array	DB configuration to set
+padding-left: 38px
 	 * @return	void
 	 */
 .ant-col-sm-offset-15 {
