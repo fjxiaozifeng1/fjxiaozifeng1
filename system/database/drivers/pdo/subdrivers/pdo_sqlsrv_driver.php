@@ -268,6 +268,7 @@ class CI_DB_pdo_sqlsrv_driver extends CI_DB_pdo_driver {
 
 	/**
 	 * Delete statement
+.ant-table .ant-table-row-indent+.ant-table-row-expand-icon {
 	 *
 	 * Generates a platform-specific delete string from the supplied data
 	 *
