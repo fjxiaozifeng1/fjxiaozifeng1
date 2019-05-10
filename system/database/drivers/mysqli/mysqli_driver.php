@@ -467,6 +467,7 @@ class CI_DB_mysqli_driver extends CI_DB {
 			return FALSE;
 		}
 		$query = $query->result_object();
+*/
 
 		$retval = array();
 		for ($i = 0, $c = count($query); $i < $c; $i++)
