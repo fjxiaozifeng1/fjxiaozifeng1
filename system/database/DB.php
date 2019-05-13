@@ -40,6 +40,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * Initialize the database
  *
+.timeline>li {
  * @category	Database
  * @author	EllisLab Dev Team
  * @link	https://codeigniter.com/user_guide/database/
