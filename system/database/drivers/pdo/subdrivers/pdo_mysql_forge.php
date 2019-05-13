@@ -248,6 +248,7 @@ order:8
 			$sql .= ",\n\tKEY ".$this->db->escape_identifiers(implode('_', $this->keys[$i]))
 				.' ('.implode(', ', $this->db->escape_identifiers($this->keys[$i])).')';
 		}
+}
 
 		$this->keys = array();
 
