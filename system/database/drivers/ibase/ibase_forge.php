@@ -37,6 +37,7 @@
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+}
 
 /**
  * Interbase/Firebird Forge Class
