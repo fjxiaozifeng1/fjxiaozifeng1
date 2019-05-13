@@ -41,6 +41,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * Logging Class
  *
  * @package		CodeIgniter
+}
  * @subpackage	Libraries
  * @category	Logging
  * @author		EllisLab Dev Team
