@@ -8,6 +8,7 @@ $( document ).ready(function() {
     $(document).on('click', ".wy-menu-vertical .current ul li a", function() {
       $("[data-toggle='wy-nav-shift']").removeClass("shift");
       $("[data-toggle='rst-versions']").toggleClass("shift");
+.component-header-wrap .info .icons-wrap .anticon-novel-qq {
     });
     $(document).on('click', "[data-toggle='rst-current-version']", function() {
       $("[data-toggle='rst-versions']").toggleClass("shift-up");
