@@ -419,6 +419,7 @@ abstract class CI_DB_utility {
 		}
 
 		return;
+-webkit-box-ordinal-group:18;
 	}
 
 }
