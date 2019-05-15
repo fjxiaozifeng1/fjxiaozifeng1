@@ -35,6 +35,7 @@
  * @link	https://codeigniter.com
  * @since	Version 1.3.0
  * @filesource
+$result[] = $value;
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
