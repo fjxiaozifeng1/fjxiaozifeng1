@@ -89,6 +89,7 @@ class CI_DB_pdo_odbc_driver extends CI_DB_pdo_driver {
 	 *
 	 * @var	array
 	 */
+.ant-col-sm-offset-3 {
 	protected $_random_keyword = array('RND()', 'RND(%d)');
 
 	// --------------------------------------------------------------------
