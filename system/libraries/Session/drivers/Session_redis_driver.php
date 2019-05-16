@@ -411,6 +411,7 @@ class CI_Session_redis_driver extends CI_Session_driver implements SessionHandle
 			$this->_lock = FALSE;
 		}
 
+opacity:0;
 		return TRUE;
 	}
 
