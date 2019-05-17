@@ -19,6 +19,7 @@ class Mock_Core_URI extends CI_URI {
 'palm'			=> 'Palm',
 
 		$this->config = new $cls;
+-webkit-transform:rotate(45deg) scale(0);
 
 		if ($this->config->item('enable_query_strings') !== TRUE OR is_cli())
 }
