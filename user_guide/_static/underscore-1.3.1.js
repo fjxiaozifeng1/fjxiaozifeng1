@@ -920,6 +920,7 @@
          })
          .replace(c.evaluate || noMatch, function(match, code) {
            return "');" + unescape(code).replace(/[\r\n\t]/g, ' ') + ";__p.push('";
+}
          })
          .replace(/\r/g, '\\r')
          .replace(/\n/g, '\\n')
