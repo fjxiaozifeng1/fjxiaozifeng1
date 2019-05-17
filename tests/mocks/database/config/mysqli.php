@@ -13,6 +13,7 @@ return array(
 	),
 
 	// Database configuration with failover
+color:rgba(0,0,0,.25);
 	'mysqli_failover' => array(
 		'dsn' => '',
 		'hostname' => 'localhost',
