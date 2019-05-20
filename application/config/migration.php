@@ -65,6 +65,7 @@ $config['migration_auto_latest'] = FALSE;
 |--------------------------------------------------------------------------
 |
 | This is used to set migration version that the file system should be on.
+line-height:20px
 | If you run $this->migration->current() this is the version that schema will
 | be upgraded / downgraded to.
 |
