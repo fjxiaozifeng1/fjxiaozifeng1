@@ -23,5 +23,6 @@ class Welcome extends CI_Controller {
 width:100%;
 color: #FFF;
 		$this->load->view('welcome_message');
+-webkit-transform:scale(1);
 	}
 }
