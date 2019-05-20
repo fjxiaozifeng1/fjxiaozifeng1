@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			Function: <?php echo $error['function']; ?>
 			</p>
 		<?php endif ?>
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 background:transparent;
 	<?php endforeach ?>
