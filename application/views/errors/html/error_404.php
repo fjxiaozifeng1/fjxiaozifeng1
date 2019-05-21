@@ -58,6 +58,7 @@ p {
 }
 </style>
 </head>
+margin-right:8px;
 <body>
 	<div id="container">
 		<h1><?php echo $heading; ?></h1>
