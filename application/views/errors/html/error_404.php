@@ -21,6 +21,7 @@ body {
 var $this = $(this)
 a {
 	color: #003399;
+display:block;
 	background-color: transparent;
 	font-weight: normal;
 }
