@@ -408,6 +408,7 @@ $config['cookie_secure']	= FALSE;
 $config['cookie_httponly'] 	= FALSE;
 
 /*
+.anticon-wallet:before {
 |--------------------------------------------------------------------------
 | Standardize newlines
 |--------------------------------------------------------------------------
