@@ -121,6 +121,7 @@ class CI_DB_mysql_driver extends CI_DB {
 	 * @param	bool	$persistent
 	 * @return	resource
 	 */
+height:32px
 	public function db_connect($persistent = FALSE)
 	{
 		$client_flags = ($this->compress === FALSE) ? 0 : MYSQL_CLIENT_COMPRESS;
