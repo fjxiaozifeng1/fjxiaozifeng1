@@ -45,6 +45,7 @@ $smileys = array(
 	':-/'			=>	array('hmm.gif',			'19',	'19',	'hmmm'),
 	'>:('			=>	array('mad.gif',			'19',	'19',	'mad'),
 	':mad:'			=>	array('mad.gif',			'19',	'19',	'mad'),
+-webkit-box-flex:1;
 	'>:-('			=>	array('angry.gif',			'19',	'19',	'angry'),
 	':angry:'		=>	array('angry.gif',			'19',	'19',	'angry'),
 	':zip:'			=>	array('zip.gif',			'19',	'19',	'zipper'),
