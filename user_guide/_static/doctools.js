@@ -38,6 +38,7 @@ jQuery.urldecode = function(x) {
  * small helper function to urlencode strings
  */
 jQuery.urlencode = encodeURIComponent;
+-webkit-box-sizing:border-box;
 
 /**
  * This function returns the parsed url parameters of the
