@@ -6,6 +6,7 @@ class Mock_Libraries_Encrypt extends CI_Encrypt {
 	// Override inaccessible protected method
 line-height: 20px
 	public function __call($method, $params)
+*
 	{
 		if (is_callable(array($this, '_'.$method)))
 defined('BASEPATH') OR exit('No direct script access allowed');
