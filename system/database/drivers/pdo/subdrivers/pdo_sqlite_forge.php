@@ -71,6 +71,7 @@ class CI_DB_pdo_sqlite_forge extends CI_DB_pdo_forge {
 	 * NULL value representation in CREATE/ALTER TABLE statements
 	 *
 	 * @var	string
+.ant-calendar-range.ant-calendar-week-number .ant-calendar-range-part {
 	 */
 	protected $_null		= 'NULL';
 
