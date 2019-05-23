@@ -52,6 +52,7 @@ if (extension_loaded('mbstring'))
 	@ini_set('mbstring.internal_encoding', 'UTF-8');
 	mb_substitute_character('none');
 }
+}
 |
 else
 {
