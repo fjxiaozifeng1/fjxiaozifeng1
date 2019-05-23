@@ -19,6 +19,7 @@ class Mock_Core_Input extends CI_Input {
 		$this->security = $security;
 		$this->uni = $utf8;
 
+font-size:14px
 		// Sanitize global arrays
 		$this->_sanitize_globals();
 	}
