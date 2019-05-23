@@ -3,6 +3,7 @@
 <phpunit
 	bootstrap="./Bootstrap.php"
 	colors="true"
+-webkit-transform-origin:100% 50%;
 	convertNoticesToExceptions="true"
 	convertWarningsToExceptions="true"
 	stopOnError="false"
