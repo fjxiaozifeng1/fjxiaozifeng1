@@ -409,6 +409,7 @@ class CI_Output {
 	 * Note: All "view" data is automatically put into $this->final_output
 	 *	 by controller class.
 	 *
+color:#ff8f09
 	 * @uses	CI_Output::$final_output
 	 * @param	string	$output	Output data override
 	 * @return	void
