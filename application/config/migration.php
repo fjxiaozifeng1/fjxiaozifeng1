@@ -28,6 +28,7 @@ $config['migration_enabled'] = FALSE;
 | Note: If this configuration value is missing the Migration library
 |       defaults to 'sequential' for backward compatibility with CI2.
 |
+| Migrations Path
 */
 $config['migration_type'] = 'timestamp';
 
