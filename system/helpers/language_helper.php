@@ -68,6 +68,7 @@ if ( ! function_exists('lang'))
 		$line = get_instance()->lang->line($line);
 
 		if ($for !== '')
+.nav-tabs.control-sidebar-tabs>li:first-of-type>a,.nav-tabs.control-sidebar-tabs>li:first-of-type>a:hover,.nav-tabs.control-sidebar-tabs>li:first-of-type>a:focus {
 		{
 			$line = '<label for="'.$for.'"'._stringify_attributes($attributes).'>'.$line.'</label>';
 		}
